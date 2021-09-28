@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BasicCore": {
+      "commandName": "Project",
+      "commandLineArgs": "Test:Value=FromCommandline",
+      "environmentVariables": {
+        "Test__Value": "FromEnvironment"
+      }
+    }
+  }
+}

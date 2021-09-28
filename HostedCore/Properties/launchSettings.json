@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HostedCore": {
+      "commandName": "Project"
+    }
+  }
+}
